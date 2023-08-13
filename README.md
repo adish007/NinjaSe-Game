@@ -1,3 +1,4 @@
+Created a Ninja Game web app where user is able to move Ninja on board and then collect keys to unlock doors. Once all doors are unlocked level is beat. Three levels in total.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
